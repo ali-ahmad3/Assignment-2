@@ -1,0 +1,37 @@
+{
+    "pricingPlans": [
+        {
+            "title": "Basic",
+            "price": "$9/month",
+            "features": [
+                "5GB Storage",
+                "Basic Support",
+                "Access to Features",
+                "Community Forum"
+            ],
+            "buttonText": "Get Started"
+        },
+        {
+            "title": "Pro",
+            "price": "$19/month",
+            "features": [
+                "50GB Storage",
+                "Priority Support",
+                "Advanced Features",
+                "Custom Reports"
+            ],
+            "buttonText": "Choose Plan"
+        },
+        {
+            "title": "Enterprise",
+            "price": "$49/month",
+            "features": [
+                "500GB Storage",
+                "24/7 Dedicated Support",
+                "Team Management",
+                "Custom Integrations"
+            ],
+            "buttonText": "Contact Sales"
+        }
+    ]
+}
